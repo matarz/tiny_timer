@@ -1,5 +1,5 @@
 ## Description and Details
-See [here](http://matarz.github.com/Tiny_Timer/)
+See [here](http://matarz.github.com/tiny_timer/)
 
 
 ## License
